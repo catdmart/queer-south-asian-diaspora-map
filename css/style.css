@@ -55,6 +55,7 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
+  font-family: "IBM Plex Serif", serif;
 }
 
 .chapter-container {
